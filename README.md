@@ -55,7 +55,7 @@ This helps in maintaining real-time visibility of infrastructure changes inside 
 - Add the json and set the target to the lambda function
   <img width="554" height="309" alt="image" src="https://github.com/user-attachments/assets/1c982858-7dc3-47ab-81ab-1e3e5ce7793e" />
 
-Finally you can see the EC2 state changes updating in ServiceNow in real-time yay
+### Finally you can see the EC2 state changes updating in ServiceNow in real-time yay
 <img width="1919" height="520" alt="image" src="https://github.com/user-attachments/assets/e5eab321-7dab-4455-986c-2597d25ad825" />
 
 <img width="1919" height="486" alt="image" src="https://github.com/user-attachments/assets/1a6e2118-0e80-4061-9d80-57e83ca64708" />
