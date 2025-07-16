@@ -41,6 +41,7 @@ This helps in maintaining real-time visibility of infrastructure changes inside 
 <img width="1914" height="940" alt="image" src="https://github.com/user-attachments/assets/d58fced2-d313-4d8e-85e4-6823057c3ed3" />
 
 ### 2. AWS Lambda Setup
+- Create a new execution role adding permission:AWSLambdaBasicExecutionRole to enable CLoudWatch Logging
 - Create a Lambda function in Python 3.x
 - Add the following environment variables:
   - `SN_URL`: Scripted REST API endpoint (e.g. `https://<instance>.service-now.com/api/ec2_state_api/state`)
